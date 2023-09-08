@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Hamedpouya
-- frontend developer .
+- frontend developer 
 - 
   skills: javascript,html,css,bootstrap,react .
   
-- backend developer .
+- backend developer 
 - 
-  skills: django,node.js .
+  skills: django,node.js 
 - 
 - 👀 I’m interested in Ai And machinelearning
 - 
